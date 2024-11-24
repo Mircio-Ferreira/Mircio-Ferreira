@@ -40,7 +40,7 @@ Sou bastante curioso por praticamente qualquer área. Em uma conversa, se você 
 ---
 
 ### 📫 Vamos Conectar?
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mircio-ferreira-dos-santos-neto-73463933a/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mircio-ferreira/)
 
 
 > **"Tudo aquilo que você coletou forma o seu valor."**  
