@@ -4,7 +4,7 @@ Olá, meu nome é **Mircio Ferreira**. Sim, eu sei, é um nome bastante peculiar
   
 Atualmente sou estudante de **Ciência da Computação** na [CESAR School](https://www.linkedin.com/school/cesarschool/posts/?feedView=all). Antes disso, estudei **Engenharia Eletrônica**, onde tive meu primeiro contato com programação e me identifiquei tanto que decidi fazer a transição de curso.
   
-Tenho uma extremamente curioso por praticamente qualquer área. Em uma conversa, se você deixar, posso passar horas fazendo perguntas sobre sua área de interesse, sempre tentando absorver o máximo de conhecimento possível.  
+Sou bastante curioso por praticamente qualquer área. Em uma conversa, se você deixar, posso passar horas fazendo perguntas sobre sua área de interesse, sempre tentando absorver o máximo de conhecimento possível.  
 
 ---
 
@@ -43,4 +43,5 @@ Tenho uma extremamente curioso por praticamente qualquer área. Em uma conversa,
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mircio-ferreira-dos-santos-neto-73463933a/)
 
 
-**"Tudo aquilo que você coletou forma o seu valor"**~Made in abyss
+> **"Tudo aquilo que você coletou forma o seu valor."**  
+> — *Made in Abyss*
