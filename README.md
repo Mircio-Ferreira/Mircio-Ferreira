@@ -39,7 +39,7 @@ Sou bastante curioso por praticamente qualquer área. Em uma conversa, se você 
 
 ---
 
-### 📫 Vamos Conectar?
+### 📫 Redes sociais
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mircio-ferreira/)
 
 
