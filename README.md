@@ -1,7 +1,9 @@
 # 👋 Saudações!  
 
-Olá, meu nome é **Mircio Ferreira**. Sim, eu sei, é um nome bastante peculiar!  
-Sou estudante de **Ciência da Computação** na [CESAR School](https://www.linkedin.com/school/cesarschool/posts/?feedView=all). Antes disso, estudei **Engenharia Eletrônica**, onde tive meu primeiro contato com programação e me identifiquei tanto que decidi fazer a transição de curso.  
+Olá, meu nome é **Mircio Ferreira**. Sim, eu sei, é um nome bastante peculiar!
+  
+Sou estudante de **Ciência da Computação** na [CESAR School](https://www.linkedin.com/school/cesarschool/posts/?feedView=all). Antes disso, estudei **Engenharia Eletrônica**, onde tive meu primeiro contato com programação e me identifiquei tanto que decidi fazer a transição de curso.
+  
 Sou extremamente curioso por praticamente qualquer área. Em uma conversa, se você deixar, posso passar horas fazendo perguntas sobre sua área de interesse, sempre tentando absorver o máximo de conhecimento possível.  
 
 ---
